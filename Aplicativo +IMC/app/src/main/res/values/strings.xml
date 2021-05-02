@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">+IMC</string>
+    <string name="digite_o_seu_peso">Digite o seu Peso(kg)</string>
+    <string name="digite_a_sua_altura">Digite a sua Altura(m)</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="teste">teste</string>
+    <string name="seu_resultado">Seu Resultado:</string>
+    <string name="calcule_o_seu_imc">Calcule o seu IMC</string>
+    <string name="calcular_novamente">CALCULAR NOVAMENTE</string>
+    <string name="giulianno_zanetti">Giulianno Zanetti</string>
+    <string name="estudante_de_si_buscando_aprofundar_os_conhecimentos_na_rea_de_programa_o_ainda_n_o_tive_uma_experi_ncia_profissional_mas_sou_uma_pessoa_criativa_esfor_ada_com_vontade_de_aprender_busco_um_est_gio_na_rea">Estudante de SI buscando aprofundar os conhecimentos na área de programação, ainda não tive uma experiência profissional, mas sou uma pessoa criativa, esforçada, com vontade de aprender, busco um estágio na área.</string>
+    <string name="voltar">VOLTAR</string>
+
+</resources>

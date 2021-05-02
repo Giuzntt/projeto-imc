@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitHub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitHub/ROBOCUP-2019" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitHub/SmartMed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitHub/android-app-3SIB" vcs="Git" />
+  </component>
+</project>
