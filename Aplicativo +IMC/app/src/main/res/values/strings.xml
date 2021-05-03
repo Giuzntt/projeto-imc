@@ -10,5 +10,12 @@
     <string name="giulianno_zanetti">Giulianno Zanetti</string>
     <string name="estudante_de_si_buscando_aprofundar_os_conhecimentos_na_rea_de_programa_o_ainda_n_o_tive_uma_experi_ncia_profissional_mas_sou_uma_pessoa_criativa_esfor_ada_com_vontade_de_aprender_busco_um_est_gio_na_rea">Estudante de SI buscando aprofundar os conhecimentos na área de programação, ainda não tive uma experiência profissional, mas sou uma pessoa criativa, esforçada, com vontade de aprender, busco um estágio na área.</string>
     <string name="voltar">VOLTAR</string>
+    <string name="campo_obrigatorio">*OBRIGATÓRIO PREENCHER ESSE CAMPO!</string>
+    <string name="abaixodopeso">Você está abaixo do peso</string>
+    <string name="pesoideal">Você está com peso ideal</string>
+    <string name="acimadopeso">Você está acima do peso</string>
+    <string name="obeso">Você está obeso</string>
+    <string name="imc_dados">\IMC: \</string>
+    <string name="imc_splash">+IMC</string>
 
 </resources>

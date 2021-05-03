@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">+BMI</string>
+    <string name="digite_o_seu_peso">Enter your Weight(kg)</string>
+    <string name="digite_a_sua_altura">Enter your Height(m)</string>
+    <string name="calcular">CALCULATE</string>
+    <string name="teste">test</string>
+    <string name="seu_resultado">Your Result:</string>
+    <string name="calcule_o_seu_imc">Calculate your BMI</string>
+    <string name="calcular_novamente">RECALCULATE</string>
+    <string name="giulianno_zanetti">Giulianno Zanetti</string>
+    <string name="estudante_de_si_buscando_aprofundar_os_conhecimentos_na_rea_de_programa_o_ainda_n_o_tive_uma_experi_ncia_profissional_mas_sou_uma_pessoa_criativa_esfor_ada_com_vontade_de_aprender_busco_um_est_gio_na_rea">Student of Information Systems, seeking to deepen knowledge in the area of programming, I have not yet had a professional experience, but I am a creative person, hardworking, willing to learn, I seek an internship in the area.</string>
+    <string name="voltar">BACK</string>
+    <string name="campo_obrigatorio">*MANDATORY TO COMPLETE THIS FIELD!</string>
+    <string name="abaixodopeso">You are underweight</string>
+    <string name="pesoideal">You are at ideal weight</string>
+    <string name="acimadopeso">Are you overweight</string>
+    <string name="obeso">You are obese</string>
+    <string name="imc_dados">\BMI: \</string>
+    <string name="imc_splash">+BMI</string>
+</resources>

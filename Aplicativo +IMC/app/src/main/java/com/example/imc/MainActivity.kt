@@ -20,23 +20,39 @@ class MainActivity : AppCompatActivity() {
         with(binding){
             btCalcular.setOnClickListener {
 
-                val peso  = tiePeso.text.toString().toDouble()
-                val altura = tieAltura.text.toString().toDouble()
+                val peso  = tiePeso.text.toString()
+                val altura = tieAltura.text.toString()
+
+                if(peso.isBlank()){
+                    tilPeso.error = getString(R.string.campo_obrigatorio)
+                } else{
+                    tilPeso.isErrorEnabled = false
+                }
+                if (altura.isBlank()){
+                    tilAltura.error = getString(R.string.campo_obrigatorio)
+                } else {
+                    tilAltura.isErrorEnabled = false
+                }
 
 
-                val res = peso/(altura*altura)
+
+                if(peso.isNotBlank() && altura.isNotBlank()){
+                    val res = peso.toDouble()/(altura.toDouble()*altura.toDouble())
+                    val total = DataResult(
+                            resultado = res
+                    )
+                    val intent = Intent(this@MainActivity,
+                            DadosActivity::class.java)
+                    intent.putExtra(KEY_INTENT_DATA, total )
+                    startActivity(intent)
+
+                }
+
+                }
 
 
 
-                val intent = Intent(this@MainActivity,
-                        DadosActivity::class.java)
 
-                val total = DataResult(
-                       resultado = res
-                )
-                intent.putExtra(KEY_INTENT_DATA, total )
-                startActivity(intent)
-            }
 
 //            PROFILE
             btProfile.setOnClickListener {
@@ -54,4 +70,10 @@ class MainActivity : AppCompatActivity() {
         companion object{
             const val KEY_INTENT_DATA = "total"
         }
+
+
+
+
+
+
     }

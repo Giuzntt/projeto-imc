@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">+IMC</string>
+    <string name="digite_o_seu_peso">Ingrese su peso(kg)</string>
+    <string name="digite_a_sua_altura">Ingrese su altura(m)</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="teste">prueba</string>
+    <string name="seu_resultado">Tu resultado:</string>
+    <string name="calcule_o_seu_imc">Calcule su IMC</string>
+    <string name="calcular_novamente">RECALCULAR</string>
+    <string name="giulianno_zanetti">Giulianno Zanetti</string>
+    <string name="estudante_de_si_buscando_aprofundar_os_conhecimentos_na_rea_de_programa_o_ainda_n_o_tive_uma_experi_ncia_profissional_mas_sou_uma_pessoa_criativa_esfor_ada_com_vontade_de_aprender_busco_um_est_gio_na_rea">Estudiante de Sistemas de Información, buscando profundizar conocimientos en el área de programación, aún no he tenido una experiencia profesional, pero soy una persona creativa, trabajadora, con ganas de aprender, busco una pasantía en el área.</string>
+    <string name="voltar">ESPALDA</string>
+    <string name="campo_obrigatorio">*OBLIGATORIO COMPLETAR ESTE CAMPO!</string>
+    <string name="abaixodopeso">Tienes bajo peso</string>
+    <string name="pesoideal">Tienes el peso ideal</string>
+    <string name="acimadopeso">Tienes sobrepeso</string>
+    <string name="obeso">Eres obeso</string>
+    <string name="imc_dados">\IMC: \</string>
+    <string name="imc_splash">+IMC</string>
+
+</resources>

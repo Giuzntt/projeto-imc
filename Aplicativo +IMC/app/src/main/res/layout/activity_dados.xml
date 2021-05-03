@@ -60,6 +60,23 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/tvResultado"
             app:layout_constraintVertical_bias="0.186" />
+        <TextView
+            android:id="@+id/tzChecar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="50dp"
+            android:layout_marginVertical="15dp"
+            android:fontFamily="monospace"
+            android:textAlignment="center"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tzResult"
+            app:layout_constraintVertical_bias="0.186" />
         <Button
             android:id="@+id/btVoltarP"
             android:layout_width="0dp"

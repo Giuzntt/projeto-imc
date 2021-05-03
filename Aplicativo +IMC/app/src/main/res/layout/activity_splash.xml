@@ -32,7 +32,7 @@
         android:fontFamily="monospace"
         android:gravity="center"
         android:padding="30dp"
-        android:text="+IMC"
+        android:text="@string/imc_splash"
         android:textColor="@color/white"
         android:textSize="43dp"
         android:textStyle="bold"
